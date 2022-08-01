@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![RainbowWolfer's github stats](https://github-readme-stats.vercel.app/api?username=rainbowwolfer&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **RainbowWolfer/RainbowWolfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
