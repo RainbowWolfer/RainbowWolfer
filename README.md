@@ -7,17 +7,13 @@
 
 - 🔭 I’m currently working on [E621-Browser-For-UWP](https://github.com/RainbowWolfer/E621-Browser-For-UWP)
 
-- 🌱 I’m currently learning **More about Unity Development**
+- 🌱 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RainbowWolfer](https://github.com/RainbowWolfer)
 
 - 📫 How to reach me **RainbowWolfer@outlook.com**
 
 - ⚡ Fun fact **I think I am a furry. 🐾[cringe sound]🐾**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
